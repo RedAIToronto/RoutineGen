@@ -1,0 +1,2 @@
+# RoutineGen
+This repository contains the code for a Streamlit application that generates personalized weekly schedules. Leveraging the power of StackAI, it takes into account user's preferences for schedule intensity, lifestyle (Early Bird or Night Owl), and daily responsibilities (such as school or a full-time job). The generated schedule can be downloaded as a CSV file for further use. This application demonstrates the potential of AI in automating routine tasks and optimizing time management.
